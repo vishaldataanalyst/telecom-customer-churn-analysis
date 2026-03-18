@@ -89,11 +89,11 @@ The dataset contains information about **100,000 telecom customers**, including:
    git clone https://github.com/vishaldataanalyst/telecom-customer-churn-analysis.git
 2.  Download the dataset from Kaggle.
 
-3.Open Python/telecome.ipynb in Jupyter Notebook.
+3. Open Python/telecome.ipynb in Jupyter Notebook.
 
-4.Run the notebook cells sequentially to reproduce the analysis.
+4. Run the notebook cells sequentially to reproduce the analysis.
 
-5.Optional: Open Power BI/Telecom Customer Churn Analysis & Revenue Impact Dashboard.pbix to explore interactive dashboards.
+5. Optional: Open Power BI/Telecom Customer Churn Analysis & Revenue Impact Dashboard.pbix to explore interactive dashboards.
 
 ##  Project Structure
 
