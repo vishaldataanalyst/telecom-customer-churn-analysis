@@ -66,9 +66,9 @@ Telecom-Customer-Churn-Analysis/
 └─ README.md # Project description and instructions
 
 ## Screenshots
-![Churn Overview](Screenshots/Churn Overview.png)
-![Churn Impact](Screenshots/Churn Impact.png)
-![Insights, Business Impact & Recommendation](Screenshots/Insights,Business Impact And Recommendation.png) 
+![Churn Overview](screenshots/Churn Overview.png)
+![Churn Impact](screenshots/Churn Impact.png)
+![Insights, Business Impact & Recommendation](screenshots/Insights,Business Impact And Recommendation.png) 
 
 ## How to Run
 1. Clone the repository.  
