@@ -66,6 +66,7 @@ Telecom-Customer-Churn-Analysis/
 └─ README.md # Project description and instructions
 
 ## Screenshots
+
 ![Churn Overview](screenshots/Churn-Overview.png)
 ![Churn Impact](screenshots/Churn-Impact.png)
 ![Insights, Business Impact & Recommendation](screenshots/Insights-Business-Impact-Recommendation.png)
@@ -76,3 +77,6 @@ Telecom-Customer-Churn-Analysis/
 3. Open `Python/telecome.ipynb` in Jupyter Notebook.  
 4. Run the notebook cells sequentially to reproduce the analysis.  
 5. Optional: Open `Power BI/Telecom Customer Churn Analysis & Revenue Impact Dashboard.pbix` to explore interactive dashboards.
+6. Clone the repository.  
+   ```bash
+   git clone https://github.com/vishaldataanalyst/telecom-customer-churn-analysis.git
