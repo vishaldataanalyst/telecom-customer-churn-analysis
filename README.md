@@ -72,13 +72,13 @@ The dataset contains information about **100,000 telecom customers**, including:
 ## Screenshots 📸
 
 **Churn Overview**  
-[![Churn Overview](Screenshots/Churn-Overview.png)](Screenshots/Churn-Overview.png)  
+[![Churn Overview](screenshots/Churn-Overview.png)](screenshots/Churn-Overview.png)  
 
 **Churn Impact**  
-[![Churn Impact](Screenshots/Churn-Impact.png)](Screenshots/Churn-Impact.png)  
+[![Churn Impact](screenshots/Churn-Impact.png)](screenshots/Churn-Impact.png)  
 
 **Insights, Business Impact & Recommendations**  
-[![Insights](Screenshots/Insights-Business-Impact-Recommendation.png)](Screenshots/Insights-Business-Impact-Recommendation.png)  
+[![Insights](screenshots/Insights-Business-Impact-Recommendation.png)](screenshots/Insights-Business-Impact-Recommendation.png)  
 
 ---
 
