@@ -1,5 +1,9 @@
 # Telecom Customer Churn Analysis
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Server-blue?logo=Microsoft-SQL-Server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=power-bi&logoColor=white)
+
 ## Project Description
 This project analyzes a telecom company’s customer data to understand churn patterns, identify high-risk customer segments, and provide actionable recommendations to reduce churn. Using **Python, SQL, and Power BI**, the project combines statistical analysis, revenue impact assessment, and interactive visualizations to help the company retain high-value customers.
 
